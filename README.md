@@ -9,6 +9,7 @@ Languages and Tools
 ![MySql](https://img.shields.io/badge/SQL-orange?style=flat&logo=MySQl)
 ![QA](https://img.shields.io/badge/QA-blue?style=flat)
 
+ Web applications testing, Experience working by Scrum methodology, Jira, Postman, Functional testing, Test Documentation, Test Design Techniques
 Follow me: https://www.linkedin.com/in/alina-kaleeva-82a051207/
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaleevaAlina&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
